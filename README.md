@@ -6,10 +6,12 @@ Your comprehensive examinations are coming up (and I do hope you are preparing w
 But there is a twist. Each student that attends the examination must receive a different set of questions.
 
 ## Problem statement
-Implement a smart contract integrated with a web app, that serves a different set of questions for each user that logs into the platform.
+Implement a smart contract integrated with a web app, that serves a different set of questions for each user that logs into the platform. <br>
+
+Feel free to add more details to the project. Who knows, maybe your submission might make the cut and be a valuable tool for yourself or BITS Blockchain in the future!
 
 ## Resources
-Please usse the resources compiled in the official [BITS Blockchain Notion page](https://bitsblockchain.notion.site/Resources-for-blockchain-enthusiasts-d69a20cf5402406cb709dfabe4150c87).
+Please use the resources compiled in the official [BITS Blockchain Notion page](https://bitsblockchain.notion.site/Resources-for-blockchain-enthusiasts-d69a20cf5402406cb709dfabe4150c87).
 
 ## Judging criteria
 <ol>
@@ -29,4 +31,4 @@ Please usse the resources compiled in the official [BITS Blockchain Notion page]
 </ol>
 
 ## Motivation for project quality
-The best project that comes out of the recruitment task will be considered for use in the future recruitment rounds of BITS Blockchain, subject to review.
+The best project that comes out of the recruitment task will be considered for use as a tool in the future recruitment rounds of BITS Blockchain, subject to review.
