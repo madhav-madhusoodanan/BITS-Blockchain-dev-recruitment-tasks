@@ -2,8 +2,8 @@
 
 ## Introduction
 
-Your comprehensive examinations are coming up (and I do hope you are preparing well for them!) and your professor is preparing your question papers from a question bank. <br><br>
-But there is a twist. Each student that attends the examination must receive a different set of questions.
+Your comprehensive examinations are coming up (I do hope you are preparing well for them!) and your professor is preparing your question papers from a question bank. <br><br>
+But there is a twist. Each student that attends the examination must receive a different set of questions, and your professor is lazy to create each question paper by hand.
 
 ## Problem statement
 Implement a smart contract integrated with a web app, that serves a different set of questions for each user that logs into the platform. <br>
@@ -31,4 +31,6 @@ Please use the resources compiled in the official [BITS Blockchain Notion page](
 </ol>
 
 ## Motivation for project quality
-The best project that comes out of the recruitment task will be considered for use as a tool in the future recruitment rounds of BITS Blockchain, subject to review.
+The best project that comes out of the recruitment task may be considered for use as a tool in the future recruitment rounds of BITS Blockchain, subject to review.
+
+Do your best, this is your motivation to make your project more useful than just a GitHub repository that will be forgotten over time.
